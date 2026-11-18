@@ -1,0 +1,14 @@
+{
+  "name": "Lectra",
+  "short_name": "Lectra",
+  "description": "英語の本を読む・単語を復習する・AI に質問する",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#1f5f8b",
+  "icons": [
+    { "src": "./icon-256.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
